@@ -41,3 +41,10 @@
 
 ** Link(s) to work **:
 1. [Count distinct elements in every window of size k] (https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/)
+
+### Day 7: June 10, Monday
+
+** Today's Progress: I worked an pattern matching algorithms. I tried to understadn the Manacher's. I sort of understood the algorithm but I was not even confident enough to try and code it up. I workded on Rabin Karp algorithm but spend a lot of time on it because I had to use double hashing. At last I read the notes to know how to implement it. I later started working on teh InfyTQ courses because I thought an 8lpa salary as a backup is a good thing and the things that are being taught in the courses is also useful for the placements.
+
+** Thoughts ** : I am spending a lot of time on a particular problem. I not able to solve the problems without any help or reference.
+ I was confused if me deciding on not doing an internship will impact me negativly. But I have to use this time effectivly to help me secure a good placement. I started working on the infosys courses and I will get infosys certified and get a job offer and think about it later.
